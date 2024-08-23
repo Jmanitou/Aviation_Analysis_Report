@@ -12,7 +12,8 @@
 ### 6. Replaced nan data in injury columns to 0
 ### 7. Quantified impact to human safety and airplane damage by making new columns to track percentiles
 ### 8. Created two new data frames that seperately tracked top 20 counts of aircraft Makes by Commercial and Private aircrafts
-### 9. Appendix includes code that deals with investigations from 2001 to 2022 and investigation type from 2001 to 2022
+### 9. Wrote the three dataframes to csv files Output_Data, Output_commercial, and Output_private
+### 10. Appendix includes code that deals with investigations from 2001 to 2022 and investigation type from 2001 to 2022
 ## Presentation
 ### The Link to our presentation is [here](https://docs.google.com/presentation/d/1RquP1pQMuQ6j8GaRvvJ5-4ECo-hugXZX/edit?usp=sharing&ouid=101182939687611455982&rtpof=true&sd=true)
 
