@@ -1,4 +1,8 @@
 # Flatiron_Aviation_Report
+## Project Background
+### The primary business objective of this project is to make a recommendation to our client for which aircraft to purchase in order to minimize business risk. An additional area of analysis was to investigate which geographical areas were least risky to operate in.
+### To answer these questions data from the National Travel Safety Board was processed and analyzed. This dataset included records for airplane accidents and incidents. One limitation of the data is that it did not include any information on the number of flights without accidents and incidents. Thus, the dataset is useful for understanding the accidents and incidents themselves, but not their rate of occurrence.¶
+
 ## Summary
 ### 1. First read in the data from the US National Travel Safety Board(NTSB) and saved it to dataframe
 ### 2. Reformatted dataframe columns to have _ instead of . for spaces
@@ -25,3 +29,10 @@
 
 ## Tableau Dashboard
 ### The Link to our tableau dashboard is [here](https://public.tableau.com/app/profile/jackson.robbins/viz/Aviation_Visualization/Map)
+![damage_commercial](images/damage_com_graph.png) 
+![injury_commercial](images/injury_com_graph.png) ![fatality_commercial](images/fatality_com_graph.png)
+![damage_private](images/damage_pri_graph.png)
+![injury_private](images/injury_pri_graph.png) ![injury_private](images/fatality_pri_graph.png)
+
+## Conclusion
+### Aviat Aircrafts would be the best commercial aircraft for less risk of death, injuries, and airplane damage , while Gulfstream Aircrafts would be the best private aircraft for the same reasons. We also found that building hubs in the South East and North West to and from would yield the the lowest number of accidents.
