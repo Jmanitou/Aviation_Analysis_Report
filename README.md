@@ -30,7 +30,7 @@
 ## Tableau Dashboard
 ### The Link to our tableau dashboard is [here](https://public.tableau.com/app/profile/jackson.robbins/viz/Aviation_Visualization/Map)
 ![damage_commercial](images/damage_com_graph.PNG) 
-![injury_commercial](images/injury_com_graph) ![fatality_commercial](images/fatality_com_graph.PNG)
+![injury_commercial](images/injury_com_graph.PNG) ![fatality_commercial](images/fatality_com_graph.PNG)
 ![damage_private](images/damage_pri_graph.PNG)
 ![injury_private](images/injury_pri_graph.PNG) ![injury_private](images/fatality_pri_graph.PNG)
 
