@@ -35,4 +35,4 @@
 ![injury_private](images/injury_pri_graph.PNG) ![injury_private](images/fatality_pri_graph.PNG)
 
 ## Conclusion
-### Aviat Aircrafts would be the best commercial aircraft for less risk of death, injuries, and airplane damage , while Gulfstream Aircrafts would be the best private aircraft for the same reasons. We also found that building hubs in the South East and North West to and from would yield the the lowest number of accidents.
+### Aviat Aircrafts would be the best commercial aircraft for less risk of death, injuries, and airplane damage, while Gulfstream Aircrafts would be the best private aircraft for the same reasons. We also found that building hubs in the South East and North West to and from would yield the the lowest number of accidents.
