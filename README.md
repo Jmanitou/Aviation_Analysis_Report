@@ -29,10 +29,10 @@
 
 ## Tableau Dashboard
 ### The Link to our tableau dashboard is [here](https://public.tableau.com/app/profile/jackson.robbins/viz/Aviation_Visualization/Map)
-![damage_commercial](images/damage_com_graph.png) 
-![injury_commercial](images/injury_com_graph.png) ![fatality_commercial](images/fatality_com_graph.png)
-![damage_private](images/damage_pri_graph.png)
-![injury_private](images/injury_pri_graph.png) ![injury_private](images/fatality_pri_graph.png)
+![damage_commercial](images/damage_com_graph.PNG) 
+![injury_commercial](images/injury_com_graph.PNG) ![fatality_commercial](images/fatality_com_graph.PNG)
+![damage_private](images/damage_pri_graph.PNG)
+![injury_private](images/injury_pri_graph.PNG) ![injury_private](images/fatality_pri_graph.PNG)
 
 ## Conclusion
 ### Aviat Aircrafts would be the best commercial aircraft for less risk of death, injuries, and airplane damage , while Gulfstream Aircrafts would be the best private aircraft for the same reasons. We also found that building hubs in the South East and North West to and from would yield the the lowest number of accidents.
